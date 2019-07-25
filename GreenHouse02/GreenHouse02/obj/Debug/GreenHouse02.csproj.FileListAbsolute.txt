@@ -1,0 +1,15 @@
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\bin\Debug\GreenHouse02.exe.config
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\bin\Debug\GreenHouse02.exe
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\bin\Debug\GreenHouse02.pdb
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.csprojAssemblyReference.cache
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.Home.resources
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.Properties.Resources.resources
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.csproj.GenerateResource.cache
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.csproj.CoreCompileInputs.cache
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.exe
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.pdb
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.SerialMonitor.resources
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\bin\Debug\MWArray.dll
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\obj\Debug\GreenHouse02.csproj.CopyComplete
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\bin\Debug\myPloter.dll
+C:\Users\zach9\source\repos\GreenHouse02\GreenHouse02\bin\Debug\myPloterNative.dll
